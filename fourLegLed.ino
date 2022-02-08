@@ -8,7 +8,6 @@ void setup() {
   pinMode(blue_light_pin, OUTPUT);
 }
 
-
 void loop() {
   RGB_color(255, 0, 0); // Red
   delay(1000);
