@@ -33,4 +33,3 @@ void RGB_color(int red_light_value, int green_light_value, int blue_light_value)
   analogWrite(blue_light_pin, blue_light_value);
 }
 
-
